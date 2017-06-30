@@ -1,0 +1,34 @@
+{
+    "orderid":5633232156666666666,
+    "name": "张三",
+    "tel": "56598742336541",
+    "address": "dhjshjdjxnjjsjjsduueuueueuueuue",
+    "shopname":"网络体验店",
+    "freight":6,
+    "totalprice": 587,
+    "ordercreate":"2017-05-16 19:18:50",
+    "paytime":"2017-05-16 19:20:50",
+    "state": 3,
+    "product":[{
+        "productid":344657456,
+        "productname":"YUMART新西兰牛腩1000g 袋装",
+        "imgurl":"http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+        "price":3,
+        "num":3,
+        "attr": "原味",
+        "rank": "",
+        "comment":"",
+        "state":6
+    },{
+        "productid":344657456,
+        "productname":"2017大气中文手机网站模板源码html5静态wap微信购物商城电商网页",
+        "imgurl":"http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+        "price":3,
+        "num":3,
+        "attr": "原味",
+        "rank": "",
+        "comment":"",
+        "state":""
+    }],
+    "tip":"包装小心一点"
+}

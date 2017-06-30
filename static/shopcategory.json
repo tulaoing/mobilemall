@@ -1,0 +1,20 @@
+[{
+    "id":"fruit",
+    "name":"水果",
+    "children":[{
+        "id":"apple",
+        "name":"苹果"
+    },
+    {
+        "id":"banana",
+        "name":"香蕉"
+    }]
+},
+{
+    "id":"vegetable",
+    "name":"蔬菜",
+    "children":[{
+        "id":"carret",
+        "name":"白菜"
+    }]
+}]

@@ -1,0 +1,77 @@
+{
+    "id":521459873,
+    "img" : ["http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg","http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg","http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg"],
+    "name" : "YUMART新西兰牛腩1000g 袋装",
+    "description" : "新鲜安全<img src='http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg'>",
+    "price" : "56",
+    "discountprice":"46",
+    "fare" : "10",
+    "sales" : "100",
+    "location" : "浙江义乌",
+    "fees" : "0",
+    "stock": "5",
+    "des" : {
+        "品牌" : "HERMES",
+        "规格" : "600*100",
+        "重量" : "1000g",
+        "保质期" : "180",
+        "产地" : "中国河北"
+    },
+    "shopid" : "5236987",
+    "shopname": "新疆核桃专营店",
+    "qq":4112254,
+    "weixin": "jskjdkskdk",
+    "related" : [
+        {
+            "id" : "25741",
+            "imgurl": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+            "name": "YUMART新西兰牛腩1000g 袋装",
+            "price": "55"
+        },
+        {
+            "id" : "25741",
+            "imgurl": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+            "name": "YUMART新西兰牛腩1000g 袋装",
+            "price": "55"
+        },
+        {
+            "id" : "25741",
+            "imgurl": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+            "name": "YUMART新西兰牛腩1000g 袋装",
+            "price": "55"
+        },
+        {
+            "id" : "25741",
+            "imgurl": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+            "name": "YUMART新西兰牛腩1000g 袋装",
+            "price": "55"
+        },
+        {
+            "id" : "25741",
+            "imgurl": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+            "name": "YUMART新西兰牛腩1000g 袋装",
+            "price": "55"
+        },
+        {
+            "id" : "25741",
+            "imgurl": "http://pic.womai.com/upload/601/603/253820/572327/572327_0_phone640_5303.jpg",
+            "name": "YUMART新西兰牛腩1000g 袋装",
+            "price": "55"
+        }
+    ],
+    "attr": [{
+        "name":"奶香味",
+        "price":"56",
+        "stock":0
+    },
+    {
+        "name":"榛果味",
+        "price":"57",
+        "stock":13
+    },
+    {
+        "name":"孜然味",
+        "price":"55",
+        "stock":6
+    }]
+}

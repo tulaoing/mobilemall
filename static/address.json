@@ -1,0 +1,36 @@
+[{
+    "id":1,
+    "name": "Grace",
+    "tel":56598414213,
+    "area":["浙江省","金华"],
+    "addressdetail":"银海路新光国际5236845a号",
+    "default":true
+},{
+    "id":2,
+    "name": "Grace",
+    "tel":56598414213,
+    "area":["浙江省","金华市"],
+    "addressdetail":"银海路新光国际5236845b号",
+    "default":false
+},{
+    "id":3,
+    "name": "Grace",
+    "tel":56598414213,
+    "area":["浙江省","金华市"],
+    "addressdetail":"银海路新光国际5236845c号",
+    "default":false
+},{
+    "id":4,
+    "name": "Grace",
+    "tel":56598414213,
+    "area":["浙江省","金华市"],
+    "addressdetail":"银海路新光国际5236845d号",
+    "default":false
+},{
+    "id":5,
+    "name": "Grace",
+    "tel":56598414213,
+    "area":["浙江省","金华市"],
+    "addressdetail":"银海路新光国际5236845e号",
+    "default":false
+}]

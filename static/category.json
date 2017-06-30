@@ -1,0 +1,21 @@
+[{
+	"category":"水果",
+	"categoryeng":"fruit",
+	"url":"/fruit"
+},{
+	"category":"蔬菜",
+	"categoryeng":"vegetable",
+	"url":"/vegetable"
+},{
+	"category":"干货",
+	"categoryeng":"nut",
+	"url":"/nut"
+},{
+	"category":"酒水",
+	"categoryeng":"drinks",
+	"url":"/drinks"
+},{
+	"category":"谷物",
+	"categoryeng":"grain",
+	"url":"/grain"
+}]
